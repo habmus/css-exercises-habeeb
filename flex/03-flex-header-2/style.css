@@ -55,4 +55,5 @@ ul {
   display: flex;
   margin-left: auto;
   align-items: center;
+  gap: 20px;
 }
